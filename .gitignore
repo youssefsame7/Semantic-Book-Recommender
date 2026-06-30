@@ -1,0 +1,13 @@
+# Ignore the Chroma Vector Database
+my_book_db/
+book_db.zip
+
+# Ignore raw data
+Data/
+*.csv
+tagged_description.txt
+books_with_emotions.csv
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
